@@ -25,6 +25,17 @@
 
 ---
 
+## Tabla de la verdad
+
+| Entrada A | Entrada B | Entrada C | Salida    | Salida |
+|-----------|-----------|-----------|-----------|--------|
+| 0         | 0         | 0         | ░0░       | ░0░    |
+| 0         | 0         | 1         | ░1░       | ░1░    |
+| 1         | 1         | 0         | ░1░       | ░1░    |
+| 1         | 1         | 1         | ░0░       | ░0░    |
+
+---
+
 ## 🔲 Circuitos a Simular / Simulatzeko Zirkuituak / Circuits to Simulate
 
 *(Añade aquí la captura de proteus)*
