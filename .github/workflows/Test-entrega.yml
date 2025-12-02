@@ -1,0 +1,29 @@
+name: Test archivos
+on: pull_request
+
+jobs:
+  nombre-del-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: nombre-del-paso
+        uses: actions/checkout@v3
+
+      - name: Validar solo archivos PDF y pdsprj
+        run: |
+          # ls -1 lista todos los archivos
+          # | grep -vE '\.(pdf|pdsprj)$' filtra y muestra los que no tienen las extensiones correctas
+          # && significa que si el comando anterior encuentra una coincidencia, ejecuta lo que sigue
+          ls -1 | grep -vE '\.(pdsprj|jpeg|jpg|png)$' && (echo "ERROR: ESE TIPO DE ARCHIVO NO HAY QUE SUBIR" && exit 1)
+
+      - name: Creo variables por cada tipo de archivo a subir y la cantidad de archivos a subir
+        run: |
+          echo "ArchivoPdsprj=1" >> $GITHUB_ENV
+
+      - name: Verifica si se sube 1 archivo Pdsprj
+        run: |
+          test $(ls -1 *.pdsprj | wc -l) -eq ${{ env.ArchivoPdsprj }} || (echo "ERROR: NUMERO DE ARCHIVOS .pdsprj SUBIDOS INCORRECTO" && exit 1)
+          # -eq ${{ env.ArchivoPdsprj }} ahora usa la variable de entorno
+
+      - name: Verificar tu nombre en los archivos PROTEUS
+        run: |
+          ls -1 *.pdsprj | grep ${{ github.actor }} || (echo "ERROR: UN ARCHIVO PDSPRJ NO TIENE TU NOMBRE" && exit 1)
