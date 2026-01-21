@@ -48,7 +48,8 @@ Circuito A
 
 Circuito B
 
-*(Añade aquí la captura del WaveDrom)*
+*(<img width="588" height="347" alt="image" src="https://github.com/user-attachments/assets/20f13226-db84-42d4-9e6b-90039dfdae06" />
+)*
 
 ... AÑADE LO MÁS CIRCUITOS
 
