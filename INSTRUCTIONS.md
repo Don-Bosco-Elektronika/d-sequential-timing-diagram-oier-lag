@@ -1,4 +1,4 @@
-# 🛠️ Cronograma de Circuitos Secuenciales / Zirkuitu Sekuentzialen Kronograma / Sequential Circuit Timing Diagram
+6y# 🛠️ Cronograma de Circuitos Secuenciales / Zirkuitu Sekuentzialen Kronograma / Sequential Circuit Timing Diagram
 
 | **Alumnos** | **Curso** | **Módulo** |
 |-------------|-----------|------------|
@@ -53,7 +53,20 @@ Circuito B
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
 Circuito A
 
-*(Añade aquí el código del WaveDrom)*
+*({signal: [
+
+  {name: 'clk', wave: 'P................'},
+  
+  {name: 'D', wave: '0101..0..1.0..1.0'},
+  
+  {},
+  
+  {name: 'Q', wave: '0.101..0..1.0..1.'},
+  
+  {name: '-Q', wave: '1.010..1..0.1..0.'}
+  
+]}
+)*
 
 Circuito B
 
