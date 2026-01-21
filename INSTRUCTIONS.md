@@ -18,14 +18,12 @@
 **Ariketa (EU): (2)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-|  D flanco ascendente|   74175         | <img width="143" height="94" alt="image" src="https://github.com/user-attachments/assets/11589333-bc87-42a5-a08d-b08e63196ac9" />
-| Flip-Flop arrunta. Erlojuaren seinalea behetik gora igotzen den unean (subida) bakarrik hartzen du datua. |  
+|  D flanco ascendente|   74175         | <img width="143" height="94" alt="image" src="https://github.com/user-attachments/assets/11589333-bc87-42a5-a08d-b08e63196ac9" />| Flip-Flop arrunta. Erlojuaren seinalea behetik gora igotzen den unean (subida) bakarrik hartzen du datua. |  
 
 **Ariketa (EU): (3)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| D flaco ascendente         |   74164          |<img width="134" height="104" alt="image" src="https://github.com/user-attachments/assets/db753b4f-c606-4a20-a9eb-cffd3def1f05" />
-|  Desplazamendu-erregistroa. Barruko D flip-flopek erlojua igotzean mugitzen dute datua. |  
+| D flaco ascendente         |   74164          |<img width="134" height="104" alt="image" src="https://github.com/user-attachments/assets/db753b4f-c606-4a20-a9eb-cffd3def1f05" />|  Desplazamendu-erregistroa. Barruko D flip-flopek erlojua igotzean mugitzen dute datua. |  
 
 ## Tabla de la verdad
 
