@@ -58,6 +58,8 @@
 )*
 *(<img width="540" height="255" alt="image" src="https://github.com/user-attachments/assets/4b7545bd-af0a-4e82-8e86-0ac99ffeb0ce" />
 )*
+<img width="695" height="279" alt="image" src="https://github.com/user-attachments/assets/3b40b3c1-40eb-4367-834c-a5f50c473abb" />
+
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
 
