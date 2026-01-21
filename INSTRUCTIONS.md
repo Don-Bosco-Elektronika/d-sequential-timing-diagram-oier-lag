@@ -98,10 +98,26 @@ Circuito B
   
 ]}
 )*
+Circuito C
 
-... AÑADE LO MÁS CIRCUITOS
+{signal: [
 
----
+  {name: 'clk', wave: 'N................'},
+  
+  {name: 'D', wave: '10101..0.10.1..01'},
+  
+  {},
+  
+  {name: 'Q', wave: '1.0101..0.10.1..0'},
+  
+  {name: '-Q', wave: '0.1010..1.01.0..1'}
+  
+]}
+
+
+)*
+
+
 
 
 ## 📤 Entrega / Igo / Upload  
