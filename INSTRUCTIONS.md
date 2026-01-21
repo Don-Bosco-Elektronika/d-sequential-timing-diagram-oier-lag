@@ -33,12 +33,13 @@
 *(<img width="648" height="401" alt="image" src="https://github.com/user-attachments/assets/30263f29-e56f-4d82-9da7-6264a3dd43c2" />
 )*
 
----
+*( )*
 
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
 
-*(Añade aquí la captura del WaveDrom)*
+*(<img width="598" height="278" alt="image" src="https://github.com/user-attachments/assets/349ca663-d6ef-42c9-83c8-a95c7064dd34" />
+)*
 
 Circuito B
 
