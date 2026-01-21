@@ -83,6 +83,9 @@ Circuito D
 *(<img width="587" height="354" alt="image" src="https://github.com/user-attachments/assets/b2e04841-feb8-4c78-b8f4-fb0ef3fdd777" />
 
 )*
+Circuito E
+<img width="609" height="349" alt="image" src="https://github.com/user-attachments/assets/13032e76-16f9-4804-a69d-e6d4e1bd574f" />
+
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
 Circuito A
@@ -151,6 +154,22 @@ Circuito D
   {name: '-Q', wave: 'l.h.l.h.l.....h..'}
   
 ]}
+
+circuito E
+{signal: [
+
+  {name: 'clk', wave: 'n................'},
+  
+  {name: 'D', wave: 'hlhlh..l.hl.h..lh'},
+  
+  {},
+  
+  {name: 'Q', wave: 'h.l.h.l.h.....l..'},
+  
+  {name: '-Q', wave: 'l.h.l.h.l.....h..'}
+  
+]}
+
 
 
 
