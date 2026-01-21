@@ -50,6 +50,8 @@
  )*
 *(<img width="922" height="469" alt="image" src="https://github.com/user-attachments/assets/84d5e662-3ebe-4f86-ad0b-8c2c95c3d3c8" />
 )*
+*(<img width="540" height="255" alt="image" src="https://github.com/user-attachments/assets/4b7545bd-af0a-4e82-8e86-0ac99ffeb0ce" />
+)*
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
 
@@ -67,6 +69,11 @@ Circuito B
 
 *(<img width="588" height="347" alt="image" src="https://github.com/user-attachments/assets/20f13226-db84-42d4-9e6b-90039dfdae06" />
 )*
+)*
+
+Circuito D
+*(<img width="587" height="354" alt="image" src="https://github.com/user-attachments/assets/b2e04841-feb8-4c78-b8f4-fb0ef3fdd777" />
+
 )*
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
@@ -121,6 +128,22 @@ Circuito C
 
 
 )*
+Circuito D
+
+{signal: [
+
+  {name: 'clk', wave: 'p................'},
+  
+  {name: 'D', wave: 'hlhlh..l.hl.h..lh'},
+  
+  {},
+  
+  {name: 'Q', wave: 'h.l.h.l.h.....l..'},
+  
+  {name: '-Q', wave: 'l.h.l.h.l.....h..'}
+  
+]}
+
 
 
 
