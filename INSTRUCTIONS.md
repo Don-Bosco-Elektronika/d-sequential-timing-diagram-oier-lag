@@ -30,6 +30,12 @@
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
 | D flaco ascendente         |   74165          |<img width="145" height="89" alt="image" src="https://github.com/user-attachments/assets/65c7474a-56a5-4f9a-b33f-39fa3a49a35f" />| Erregistroa da hau ere. Barruko logika D motakoa da eta goranzko flankoarekin funtzionatzen du. |  
 
+**Ariketa (EU): (5)**  
+| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
+|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
+| D flaco ascendente         |   74595         |<img width="167" height="70" alt="image" src="https://github.com/user-attachments/assets/72ed3d1f-0675-4332-a9ec-4d8f1c5a2dc9" />| Shift Registerra. Datuak erlojuaren goranzko flankoarekin mugitzen dira barruan. |  
+
+
 ## Tabla de la verdad
 
 | Entrada A | Entrada B | Entrada C | Salida    | Salida |
