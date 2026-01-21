@@ -25,6 +25,12 @@
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
 | D flaco ascendente         |   74164          |<img width="134" height="104" alt="image" src="https://github.com/user-attachments/assets/db753b4f-c606-4a20-a9eb-cffd3def1f05" />|  Desplazamendu-erregistroa. Barruko D flip-flopek erlojua igotzean mugitzen dute datua. |  
 
+**Ariketa (EU): (4)**  
+| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
+|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
+| D flaco ascendente         |   74165          |<img width="145" height="89" alt="image" src="https://github.com/user-attachments/assets/65c7474a-56a5-4f9a-b33f-39fa3a49a35f" />
+| Erregistroa da hau ere. Barruko logika D motakoa da eta goranzko flankoarekin funtzionatzen du. |  
+
 ## Tabla de la verdad
 
 | Entrada A | Entrada B | Entrada C | Salida    | Salida |
