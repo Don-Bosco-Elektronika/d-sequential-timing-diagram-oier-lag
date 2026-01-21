@@ -6,24 +6,16 @@
 
 ---
 
-## 📌 Ejercicio / Ariketa / Exercice
 
-**Ejercicio (ES): (ESCRIBE EL NÚMERO)**  
-| Nombre                     | Número de Chip | Símbolo         | Descripción del Funcionamiento                                                                 |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? | 
+
+
 
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+|  D|   74100          | <img width="86" height="97" alt="image" src="https://github.com/user-attachments/assets/5ac023cb-f5f8-4fb9-9a9a-15f9edd12e54" />| Latch bat da. Enable sarrera "1" (goian) dagoen bitartean, irteerak sarrera kopiatzen du (gardena da). |  
 
-**Exercice (EN): (WRITE THE NUMBER)**  
-| Name                     | Chip number | Symbol         | Description of Operation                                                               |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ? | ? | ? |  
 
----
 
 ## Tabla de la verdad
 
@@ -38,7 +30,8 @@
 
 ## 🔲 Circuitos a Simular / Simulatzeko Zirkuituak / Circuits to Simulate
 
-*(Añade aquí la captura de proteus)*
+*(<img width="648" height="401" alt="image" src="https://github.com/user-attachments/assets/30263f29-e56f-4d82-9da7-6264a3dd43c2" />
+)*
 
 ---
 
