@@ -15,7 +15,11 @@
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
 |  D|   74100          | <img width="86" height="97" alt="image" src="https://github.com/user-attachments/assets/5ac023cb-f5f8-4fb9-9a9a-15f9edd12e54" />| Latch bat da. Enable sarrera "1" (goian) dagoen bitartean, irteerak sarrera kopiatzen du (gardena da). |  
 
-
+**Ariketa (EU): (ZENBAKIA IDATZI)**  
+| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
+|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
+|  D flanco ascendente|   74175         | <img width="143" height="94" alt="image" src="https://github.com/user-attachments/assets/11589333-bc87-42a5-a08d-b08e63196ac9" />
+| Flip-Flop arrunta. Erlojuaren seinalea behetik gora igotzen den unean (subida) bakarrik hartzen du datua. |  
 
 ## Tabla de la verdad
 
