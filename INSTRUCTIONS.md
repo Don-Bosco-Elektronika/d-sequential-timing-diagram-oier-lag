@@ -1,4 +1,4 @@
-6y# 🛠️ Cronograma de Circuitos Secuenciales / Zirkuitu Sekuentzialen Kronograma / Sequential Circuit Timing Diagram
+# 🛠️ Cronograma de Circuitos Secuenciales / Zirkuitu Sekuentzialen Kronograma / Sequential Circuit Timing Diagram
 
 | **Alumnos** | **Curso** | **Módulo** |
 |-------------|-----------|------------|
